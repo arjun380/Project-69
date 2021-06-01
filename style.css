@@ -23,23 +23,23 @@ input {
     background: grey
 }
 
-.travel_mainDiv {
+.AboutUsdivmain {
     border: 1px solid #c7c7c7;
     padding-left: 0px;
     padding-right: 0px;
     float: none
 }
 
-.travel_mainDiv img {
+.AboutUsdivmain img {
     width: 100%;
 }
 
-.travel_mainDiv hr {
+.AboutUsdivmain hr {
     width: 230px;
 }
 
-.travel_mainDiv h5,
-.travel_mainDiv p {
+.AboutUsdivmain h5,
+.AboutUsdivmain p {
     margin-left: 20px;
 }
 
@@ -122,4 +122,10 @@ input {
 .Socialmedia
 {
     text-align: left
+}
+#Onlinethingy
+{
+    width: 1000px;
+    height: 500px;
+    margin: auto; 
 }
